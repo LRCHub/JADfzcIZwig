@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "暮らしにいてね",
+  "base_artist": "前髪ぱっつん少年",
+  "createdAt": "2026-02-13T19:24:59.859464Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暮らしにいてね",
+      "artist": "前髪ぱっつん少年",
+      "has_synced": false,
+      "path": "select/pl_01_暮らしにいてね_前髪ぱっつん少年.txt"
+    }
+  ]
+}
